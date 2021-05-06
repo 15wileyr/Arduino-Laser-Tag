@@ -1,2 +1,2 @@
 # Arduino-Laser-Tag
-College engineering project
+College engineering project documentation
